@@ -1,0 +1,32 @@
+div,span {
+    margin-bottom: 5px;  
+  }
+  
+  div {
+    display: block;
+    width: 150px;
+    height: 30px;
+    padding: 5px;
+    border: 2px solid blue;
+    background:#0E8D9B
+  }
+  
+  span {
+    display: inline;
+    margin-top:5px;
+    margin-right: 20px;
+    padding: 10px;
+    border: 2px solid red;
+    background: yellow;
+  }
+  
+  a {
+    display: inline-block;
+    margin-right: 20px;
+    width: 170px;
+    height: 30px;
+    padding: 5px;
+    border: 2px solid green;
+    background:#7DE9AF
+  }
+  
